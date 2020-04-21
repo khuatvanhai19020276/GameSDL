@@ -21,7 +21,7 @@ BIÊN DỊCH:
 /* Khai báo thư viện ------------------------------------------------------ */
 
 
-
+#include <iostream>
 #include <vector>
 #include <string>
 #include <ctime>                // Hàm time
