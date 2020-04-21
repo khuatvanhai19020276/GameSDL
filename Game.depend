@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587464469 source:c:\users\dell\desktop\game\main.cpp
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+	<SDL.h>
+	<SDL_image.h>
+
